@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0B6EA8</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorActivityBackground">#0B6EA8</color>
+    <color name="colorActivityTextColor">#D81B60</color>
+    <color name="colorActivityAnswerColor">#00FF00</color>
+    <color name="colorError">#FF0000</color>
+    <color name="colorCorrectDataGreen">#FF00FF00</color>
+</resources>

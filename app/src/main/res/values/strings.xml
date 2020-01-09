@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Getter of Fibonacci`s number</string>
+    <string name="incorrect_data">Incorrect data. Enter the natural number up to 92.</string>
+</resources>
